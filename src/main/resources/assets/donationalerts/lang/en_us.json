@@ -1,0 +1,9 @@
+{
+  "category.donationalerts.main": "Donation Alerts",
+  "key.donationalerts.toggle": "Toggle Donation Alerts",
+  "key.donationalerts.animations": "Toggle Animations",
+  "key.donationalerts.sounds": "Toggle Sounds",
+  "key.donationalerts.preview": "Preview Donation",
+  "key.donationalerts.settings": "Open Settings",
+  "key.donationalerts.clear": "Clear Donation Queue"
+}

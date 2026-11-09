@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "donationalerts",
+  "version": "${version}",
+  "name": "DonutSMP Donation Alerts",
+  "description": "Premium client-side donation alerts for Minecraft 1.21.1.",
+  "authors": ["Mayor"],
+  "contact": {},
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": { "client": ["com.mayor.donationalerts.DonationAlertsClient"] },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
